@@ -1,0 +1,64 @@
+{
+	"id": "80e81196-efd2-4337-bd72-36b61317eaec",
+	"name": "Trello",
+	"values": [
+		{
+			"key": "trelloToken",
+			"value": "0ffd85eaaaeb20dda31e6ec4e1d13f4f1366d3270269d982e99e9568320ae673\n",
+			"enabled": true
+		},
+		{
+			"key": "boardId",
+			"value": "5ee694bc3246fe0506776bb1",
+			"enabled": true
+		},
+		{
+			"key": "trellokey",
+			"value": "4022efd6312fc57e0289eeece3742473",
+			"enabled": true
+		},
+		{
+			"key": "boardName",
+			"value": "TrelloE2E",
+			"enabled": true
+		},
+		{
+			"key": "trelloBoardid",
+			"value": "5eeb50bd77e82a305040ac88",
+			"enabled": true
+		},
+		{
+			"key": "TODOListName",
+			"value": "to-doo",
+			"enabled": true
+		},
+		{
+			"key": "TODOListId",
+			"value": "5eeb532d40dc168c95456129",
+			"enabled": true
+		},
+		{
+			"key": "DONEListName",
+			"value": "doneee",
+			"enabled": true
+		},
+		{
+			"key": "DONEListID",
+			"value": "5eeb56af6f1ba418654a0b6b",
+			"enabled": true
+		},
+		{
+			"key": "ThatsABugCardName",
+			"value": "P1BUG",
+			"enabled": true
+		},
+		{
+			"key": "ThatsABugCardID",
+			"value": "5eeb6798d9bfce34a8312e9a",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-06-18T13:41:12.636Z",
+	"_postman_exported_using": "Postman/7.26.0"
+}
